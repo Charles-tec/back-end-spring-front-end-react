@@ -1,4 +1,4 @@
-package in.bushansirgur.springbootrestapi.controller;
+package poscloud.springbootrestapi.controller;
 
 import java.util.List;
 
@@ -13,11 +13,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import in.bushansirgur.springbootrestapi.entity.Employee;
-import in.bushansirgur.springbootrestapi.repository.EmployeeRepository;
+import poscloud.springbootrestapi.entity.Employee;
+import poscloud.springbootrestapi.repository.EmployeeRepository;
 
 @RestController
 @RequestMapping("/api/v1")

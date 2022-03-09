@@ -1,4 +1,4 @@
-package in.bushansirgur.springbootrestapi;
+package poscloud.springbootrestapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package in.bushansirgur.springbootrestapi.entity;
+package poscloud.springbootrestapi.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
